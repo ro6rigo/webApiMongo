@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|c:\\users\\usu\u00E1rio\\desktop\\git\\webapimongo\\webapimongo\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|solutionrelative:webapimongo\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|c:\\users\\usu\u00E1rio\\desktop\\git\\webapimongo\\webapimongo\\models\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|solutionrelative:webapimongo\\models\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|c:\\users\\usu\u00E1rio\\desktop\\git\\webapimongo\\webapimongo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|solutionrelative:webapimongo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|c:\\users\\usu\u00E1rio\\desktop\\git\\webapimongo\\webapimongo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|solutionrelative:webapimongo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|c:\\users\\usu\u00E1rio\\desktop\\git\\webapimongo\\webapimongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|solutionrelative:webapimongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|c:\\users\\usu\u00E1rio\\desktop\\git\\webapimongo\\webapimongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF295D1-A727-4F52-AECE-06412B9469F2}|WebApiMongo\\WebApiMongo.csproj|solutionrelative:webapimongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\Models\\Produtos.cs",
+              "RelativeDocumentMoniker": "WebApiMongo\\Models\\Produtos.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\Models\\Produtos.cs",
+              "RelativeToolTip": "WebApiMongo\\Models\\Produtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:56:58.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "WebApiMongo\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "WebApiMongo\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAewBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:40:26.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "WebApiMongo\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "WebApiMongo\\Services\\ProdutoService.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAArwFwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:40:02.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "WebApiMongo\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\Models\\Produto.cs",
+              "RelativeToolTip": "WebApiMongo\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:09:44.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiMongo\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\Program.cs",
+              "RelativeToolTip": "WebApiMongo\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:56:37.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiMongo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Git\\webApiMongo\\WebApiMongo\\appsettings.json",
+              "RelativeToolTip": "WebApiMongo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T16:39:56.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
